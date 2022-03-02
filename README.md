@@ -1,6 +1,6 @@
 # About me
 Welcome to my GitHub! My name is Michał and I am a student of psychology at SWPS University. I've been interested in software testing for less than a year. In my free time, I learn to test and use test tools. Currently, I am improving my skills by taking part in projects on test.io
-#Tools
+# Tools
 * Postman- Testing tool for REST API
 * Selenium IDE- Open source record and playback test automation for the web
 * Jira-  Issue tracking and project management tool for developers
