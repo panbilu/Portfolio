@@ -32,7 +32,7 @@ Welcome to my GitHub! My name is Michał and I am a student of psychology at SWP
 * P. Wróblewski: "Python dla testera" (in progress)
 * B. Błaszczyk: "English 4 IT" (in progress)
 * R.C. Martin: "Czysty Kod: Podręcznik Dobrego Programisty: (in progress)
-#Recommended websites
+# Recommended websites
 * https://pwicherski.gitbook.io/testowanie-oprogramowania/
 * https://remigiuszbednarczyk.pl/
 * https://testerzy.pl/
