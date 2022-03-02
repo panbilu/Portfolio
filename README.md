@@ -28,10 +28,11 @@ Welcome to my GitHub! My name is Michał and I am a student of psychology at SWP
 * FreeCodeCamp: Postman Beginner's Course - API Testing
 * 3wschool: SQL Tutorial
 # Books
-* A. Roman, L. Stapp: "Certyfikowany tester ISTQB"
-* P. Wróblewski: "Python dla testera" (in progress)
-* B. Błaszczyk: "English 4 IT" (in progress)
-* R.C. Martin: "Czysty Kod: Podręcznik Dobrego Programisty: (in progress)
+* A. Roman, L. Stapp, "Certyfikowany tester ISTQB"
+* P. Wróblewski, "Python dla testera" (in progress)
+* B. Błaszczyk, "English 4 IT" (in progress)
+* B. Forta, "SQL W MGNIENIU OKA"
+* R.C. Martin, "Czysty Kod: Podręcznik Dobrego Programisty: (in progress)
 # Recommended websites
 * https://pwicherski.gitbook.io/testowanie-oprogramowania/
 * https://remigiuszbednarczyk.pl/
